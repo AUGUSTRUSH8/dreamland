@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dreamlandweb:war">
+    <output-path>$PROJECT_DIR$/dreamlandweb/target</output-path>
+    <root id="archive" name="dreamland-web.war">
+      <element id="artifact" artifact-name="dreamlandweb:war exploded" />
+    </root>
+  </artifact>
+</component>

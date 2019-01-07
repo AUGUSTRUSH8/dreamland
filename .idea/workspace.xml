@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dreamlandweb:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4f86528-774f-4ac9-85b3-d88d8db2cc61" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/dreamlandweb_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/dreamlandweb_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_spring_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_core_2_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_ldap_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamland.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/D/wly/git/dreamland/logs/run.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/dreamlandweb.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/CodeCaptchaServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/MD5Util.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/PageHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/controller/RegisterController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/CommentMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/LoginLogMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/RoleMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/RoleUserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/UpvoteMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/UserContentMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/UserInfoMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/UserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/Comment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/LoginLog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/Resource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/Role.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/RoleResource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/RoleUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/Upvote.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/UserContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/UserInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/MailExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/MyAuthenticator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/SendEmail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/CommentService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/LoginLogService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/ResourceService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/RoleResourceService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/RoleService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/RoleUserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UpvoteService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserContentService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserInfoService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/CommentServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/LoginLogServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/RoleServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/RoleUserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UpvoteServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UserContentServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UserInfoServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/applicationContext-redis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/mapping/user.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/mybatis-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/redis.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/regist/activeFail.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/regist/activeSuccess.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/regist/registerSuccess.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/404/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/404/main.css.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/404/texgyreschola-bold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/404/texgyreschola-regular-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/dreamland.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/css/comment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/images/header-img-comment_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/images/icon-all_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/js/jquery-1.12.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/js/jquery.flexText.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/json/hf.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/reply/json/pl.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui.lite.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui.lite.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/css/zui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/fonts/zenicon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/fonts/zenicon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/fonts/zenicon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/fonts/zenicon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/js/zui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/js/zui.lite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/js/zui.lite.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/js/zui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/array/zui.array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/array/zui.array.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/board/zui.board.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/board/zui.board.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/board/zui.board.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/board/zui.board.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/bootbox/bootbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/bootbox/bootbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/bootbox/bootbox.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/calendar/zui.calendar.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chart/zui.chart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chart/zui.chart.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosen/chosen.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosen/chosen.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosen/chosen.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosen/chosen.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/chosenicons/zui.chosenicons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/clipboard/clipboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/clipboard/clipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorpicker/zui.colorpicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/colorset.js/zui.colorset.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/dashboard/zui.dashboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datatable/zui.datatable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/datetimepicker/datetimepicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/hotkey/hotkey.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/hotkey/hotkey.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/ieonly/excanvas.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/ieonly/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/ieonly/respond.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgcutter/zui.imgcutter.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgready/imgready.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/imgready/imgready.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/kindeditor.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/lang/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/lang/zh_TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/baidumap/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/code/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/100.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/101.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/102.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/103.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/104.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/105.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/106.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/107.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/108.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/109.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/110.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/111.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/112.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/113.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/114.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/115.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/116.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/117.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/118.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/119.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/120.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/121.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/122.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/123.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/124.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/125.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/126.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/127.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/128.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/129.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/130.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/131.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/132.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/133.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/134.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/41.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/42.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/43.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/59.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/60.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/61.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/63.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/65.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/66.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/67.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/68.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/69.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/70.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/71.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/72.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/73.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/74.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/75.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/76.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/77.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/78.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/79.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/80.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/81.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/82.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/83.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/84.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/85.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/86.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/87.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/88.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/89.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/90.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/91.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/92.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/93.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/94.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/95.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/96.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/97.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/98.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/99.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/emoticons/images/static.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_left.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_right.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/align_top.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/image/images/refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/ok.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/plugins/template/html/3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/kindeditor/themes/default/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/migrate1.2/zui.migrate1.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-apollo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-basic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-clj.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-dart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-erlang.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-go.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-hs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-lisp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-llvm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-lua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-matlab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-ml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-mumps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-n.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-pascal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-proto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-r.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-rd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-scala.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-sql.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-tcl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-tex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-vb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-vhdl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-wiki.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-xq.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/lang-yaml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/prettify/run_prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/selectable/zui.selectable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/sortable/zui.sortable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/treemap/zui.treemap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/ueditor/ueditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/ueditor/ueditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/Moxie.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/Moxie.xap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/css/zui/lib/uploader/zui.uploader.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/404.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/404_s-divider.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/404_search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/QQ.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/bg_noise.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/dreamland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/icon_m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/kj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/images/wx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/src/test/java/TestTransaction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/applicationContext-redis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/mapping/user.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/mybatis-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/redis.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/spring-mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/common/CodeCaptchaServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/common/MD5Util.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/common/PageHelper$Page.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/common/PageHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/controller/RegisterController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/CommentMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/LoginLogMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/RoleMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/RoleUserMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/UpvoteMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/UserContentMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/UserInfoMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/dao/UserMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/Comment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/LoginLog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/Resource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/Role.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/RoleResource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/RoleUser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/Upvote.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/UserContent.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/entity/UserInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/mail/MailExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/mail/MyAuthenticator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/mail/SendEmail.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/CommentService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/LoginLogService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/ResourceService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/RoleResourceService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/RoleService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/RoleUserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/UpvoteService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/UserContentService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/UserInfoService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/UserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/CommentServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/LoginLogServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/RoleServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/RoleUserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/UpvoteServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/UserContentServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/UserInfoServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/classes/wang/dreamland/www/service/impl/UserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web.war" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/mapping/user.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/mybatis-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/spring-mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/common/PageHelper$Page.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/common/PageHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/CommentMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/LoginLogMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/RoleMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/RoleUserMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/UpvoteMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/UserContentMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/UserInfoMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/dao/UserMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/Comment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/LoginLog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/Resource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/Role.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/RoleResource.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/RoleUser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/Upvote.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/User.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/UserContent.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/entity/UserInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/CommentService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/LoginLogService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/ResourceService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/RoleResourceService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/RoleService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/RoleUserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/UpvoteService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/UserContentService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/UserInfoService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/UserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/CommentServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/LoginLogServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/RoleServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/RoleUserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/UpvoteServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/UserContentServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/UserInfoServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/classes/wang/dreamland/www/service/impl/UserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/activation-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/activemq-all-5.2.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/classmate-1.1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-beanutils-1.9.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-codec-1.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-collections-3.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-dbcp-1.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-io-2.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-lang3-3.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-net-3.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-pool-1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/commons-pool2-2.4.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/fastjson-1.1.41.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/guava-18.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/hibernate-validator-5.2.4.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jackson-annotations-2.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jackson-core-2.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jackson-databind-2.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/javaee-api-7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/javax.mail-1.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jcl-over-slf4j-1.7.19.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jedis-2.9.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/jstl-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/log4j-1.2.17.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/mail-1.4.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/mapper-3.1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/mybatis-3.2.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/mysql-connector-java-5.1.29.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/persistence-api-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/slf4j-api-1.7.18.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/slf4j-log4j12-1.7.18.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-context-support-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-data-commons-1.12.1.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-data-keyvalue-1.1.1.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-data-redis-1.7.1.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-jms-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-ldap-core-2.0.2.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-messaging-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-oxm-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-acl-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-config-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-core-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-ldap-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-taglibs-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-security-web-4.1.3.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-test-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-tx-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/lib/xbean-spring-4.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/regist/activeFail.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/regist/activeSuccess.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/regist/registerSuccess.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/404/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/404/main.css.bak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/404/texgyreschola-bold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/404/texgyreschola-regular-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/dreamland.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/css/comment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/images/header-img-comment_03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/images/icon-all_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/js/jquery-1.12.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/js/jquery.flexText.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/json/hf.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/reply/json/pl.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui.lite.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui.lite.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/css/zui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/fonts/zenicon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/fonts/zenicon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/fonts/zenicon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/fonts/zenicon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/js/zui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/js/zui.lite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/js/zui.lite.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/js/zui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/array/zui.array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/array/zui.array.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/board/zui.board.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/board/zui.board.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/board/zui.board.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/board/zui.board.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/bootbox/bootbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/bootbox/bootbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/bootbox/bootbox.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/bootbox/bootbox.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/calendar/zui.calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/calendar/zui.calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/calendar/zui.calendar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/calendar/zui.calendar.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chart/zui.chart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chart/zui.chart.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosen/chosen.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosen/chosen.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosen/chosen.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosen/chosen.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosenicons/zui.chosenicons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosenicons/zui.chosenicons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosenicons/zui.chosenicons.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/chosenicons/zui.chosenicons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/clipboard/clipboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/clipboard/clipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorpicker/zui.colorpicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorpicker/zui.colorpicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorpicker/zui.colorpicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorpicker/zui.colorpicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorset.js/zui.colorset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/colorset.js/zui.colorset.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/dashboard/zui.dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/dashboard/zui.dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/dashboard/zui.dashboard.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/dashboard/zui.dashboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datatable/zui.datatable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datatable/zui.datatable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datatable/zui.datatable.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datatable/zui.datatable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datetimepicker/datetimepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datetimepicker/datetimepicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datetimepicker/datetimepicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/datetimepicker/datetimepicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/hotkey/hotkey.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/hotkey/hotkey.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/ieonly/excanvas.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/ieonly/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/ieonly/respond.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgcutter/zui.imgcutter.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgcutter/zui.imgcutter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgcutter/zui.imgcutter.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgcutter/zui.imgcutter.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgready/imgready.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/imgready/imgready.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/kindeditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/kindeditor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/kindeditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/kindeditor.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/lang/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/lang/zh_CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/lang/zh_TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/baidumap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/baidumap/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/code/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/code/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/100.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/101.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/102.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/103.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/104.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/105.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/106.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/107.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/108.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/109.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/110.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/111.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/112.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/113.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/114.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/115.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/116.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/117.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/118.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/119.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/120.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/121.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/122.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/123.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/124.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/125.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/126.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/127.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/128.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/129.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/130.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/131.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/132.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/133.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/134.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/41.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/42.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/43.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/59.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/60.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/61.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/63.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/65.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/66.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/67.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/68.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/69.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/70.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/71.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/72.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/73.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/74.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/75.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/76.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/77.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/78.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/79.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/80.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/81.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/82.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/83.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/84.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/85.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/86.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/87.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/88.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/89.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/90.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/91.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/92.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/93.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/94.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/95.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/96.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/97.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/98.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/99.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/emoticons/images/static.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/image/images/align_left.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/image/images/align_right.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/image/images/align_top.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/image/images/refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/multiimage/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/ok.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/template/html/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/template/html/2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/plugins/template/html/3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/kindeditor/themes/default/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/migrate1.2/zui.migrate1.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/migrate1.2/zui.migrate1.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-apollo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-basic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-clj.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-dart.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-erlang.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-go.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-hs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-lisp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-llvm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-lua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-matlab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-ml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-mumps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-n.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-pascal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-proto.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-r.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-rd.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-scala.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-sql.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-tcl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-tex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-vb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-vhdl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-wiki.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-xq.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/lang-yaml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/prettify/run_prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/selectable/zui.selectable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/selectable/zui.selectable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/sortable/zui.sortable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/sortable/zui.sortable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/treemap/zui.treemap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/treemap/zui.treemap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/treemap/zui.treemap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/treemap/zui.treemap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/ueditor/ueditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/ueditor/ueditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/Moxie.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/Moxie.xap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/zui.uploader.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/zui.uploader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/zui.uploader.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/css/zui/lib/uploader/zui.uploader.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/404.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/404_s-divider.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/404_search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/QQ.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/bg_noise.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/dreamland.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/icon_m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/kj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/q.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/images/wx.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/dreamland-web/register.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dreamlandweb/target/test-classes/TestTransaction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dreamlandweb/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendEmail.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/SendEmail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/controller/RegisterController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1722">
+              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>junit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserService.java" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/mapping/user.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/dreamlandweb/pom.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/redis.properties" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/SendEmail.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.5.2\mvn\mvnrepository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dreamland" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dreamland" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dreamland" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dreamland" type="462c0819:PsiDirectoryNode" />
+              <item name="dreamlandweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/github/algorithm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\temp1\dreamland\dreamlandweb\src\main\resources" />
+      <recent name="E:\temp1\dreamland\dreamlandweb\src\main\java\wang\dreamland\www" />
+      <recent name="E:\temp1\dreamland\dreamlandweb\src\main\java\wang\dreamland\www\common" />
+      <recent name="E:\temp1\dreamland\dreamlandweb\src\main\java\wang\dreamland\www\controller" />
+      <recent name="E:\temp1\dreamland\dreamlandweb\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="TestTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="dreamlandweb" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTransaction" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestTransaction.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="dreamlandweb" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTransaction" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="dreamlandweb:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dreamland" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8709" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dreamlandweb:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestTransaction.testSave" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestTransaction" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestTransaction" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestTransaction.testSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4f86528-774f-4ac9-85b3-d88d8db2cc61" name="Default" comment="" />
+      <created>1545999970574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545999970574</updated>
+      <workItem from="1545999975905" duration="580000" />
+      <workItem from="1546000561378" duration="2609000" />
+      <workItem from="1546050527892" duration="3963000" />
+      <workItem from="1546064429153" duration="5530000" />
+      <workItem from="1546591155972" duration="1611000" />
+      <workItem from="1546595285918" duration="585000" />
+      <workItem from="1546830301773" duration="4618000" />
+      <workItem from="1546835067338" duration="324000" />
+      <workItem from="1546835435267" duration="507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTransaction - 2018.12.29 at 14h 14m 47s.xml">
+      <configuration name="TestTransaction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction - 2018.12.29 at 14h 23m 08s.xml">
+      <configuration name="TestTransaction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction - 2018.12.29 at 15h 03m 35s.xml">
+      <configuration name="TestTransaction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTransaction_testSave - 2018.12.29 at 14h 13m 05s.xml">
+      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44349316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":bento: 添加或更新资源" />
+    <option name="LAST_COMMIT_MESSAGE" value=":bento: 添加或更新资源" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2163">
+          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/SendEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8400">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/CodeCaptchaServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8400">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/CodeCaptchaServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="91" lean-forward="false" selection-start-line="15" selection-start-column="91" selection-end-line="15" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/test/java/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3801">
+          <caret line="181" column="11" lean-forward="false" selection-start-line="181" selection-start-column="11" selection-end-line="181" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/mapping/user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.1.2/mapper-3.1.2.jar!/tk/mybatis/mapper/common/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/PageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="380" column="0" lean-forward="false" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/test/java/TestTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="15" column="91" lean-forward="false" selection-start-line="15" selection-start-column="91" selection-end-line="15" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/service/UserContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="372" column="24" lean-forward="false" selection-start-line="372" selection-start-column="24" selection-end-line="372" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/CodeCaptchaServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/common/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="54" column="34" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/D/wly/git/dreamland/logs/run.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6321">
+          <caret line="0" column="173" lean-forward="true" selection-start-line="0" selection-start-column="173" selection-end-line="0" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dreamlandweb/src/main/java/wang/dreamland/www/mail/SendEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
